@@ -5,9 +5,9 @@ Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Amina Sarhatlić
 
-GitHub username:
+GitHub username:amina2501
 
 ---
 
