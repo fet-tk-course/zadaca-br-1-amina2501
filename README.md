@@ -106,11 +106,13 @@ Napravite commit i push.
 
 Repozitorij treba sadržavati:
 
-- najmanje 5 commit-a
+- najmanje 5 commit-agit 
 - najmanje 2 grane
 - najmanje 1 pull request
 - 1 riješen merge konflikt
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
+
+
