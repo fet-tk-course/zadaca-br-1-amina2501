@@ -111,4 +111,4 @@ Repozitorij treba sadržavati:
 - najmanje 1 pull request
 - 1 riješen merge konflikt
 
-Ovaj repo sadrži moj GitHub zadaću za predmet RTPP.
+Ovaj repo sadrži moj GitHub zadaću za RTPP.
