@@ -111,6 +111,4 @@ Repozitorij treba sadržavati:
 - najmanje 1 pull request
 - 1 riješen merge konflikt
 
----
-
 Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
